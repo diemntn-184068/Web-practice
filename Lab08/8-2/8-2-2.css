@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    }
+h2 {
+    color: #fff;
+    margin: 0px;
+}
+h1, h3 {
+    margin: 0px;
+}
+#header {
+    background: red;
+    width: 100%;
+    height: 10%;
+    }
+#leftCol {
+    background: yellow;
+    float: left;
+    width: 20%;
+    height: 80%;
+    }
+#content {
+    background: #fff;
+    float: right;
+    width: 59%;
+    height: 80%;
+    }
+#footer {
+    background: blue;
+    clear: both;
+    width: 100%;
+    height: 10%;
+    }
